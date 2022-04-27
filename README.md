@@ -1,2 +1,3 @@
-# zaro
-ZentasticArts.ro
+# ZentasticArts Romania 🇷🇴
+
+[ZentasticArts.ro](https://zentasticarts.ro)
