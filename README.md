@@ -35,7 +35,6 @@
 * [Roxana Tomescu](https://zentasticarts.ro/profilul-meu/?uid=Roxana%20Tomescu) - bijuterii, cristale, accesorii, handmade
 * [Gina Ene](https://zentasticarts.ro/profilul-meu/?uid=Gina%20Ene) - homemade, handmade de la ENJOYNA
 * [My ZorZon](https://zentasticarts.ro/profilul-meu/?uid=My%20ZorZon) - bijuterii și accesorii
-* [My ZorZon](https://zentasticarts.ro/profilul-meu/?uid=My%20ZorZon) - bijuterii și accesorii
 
 
 ## FOOD - VEGAN
