@@ -45,3 +45,5 @@
 ![Go4Pro](https://raw.githubusercontent.com/Dascent/zaro/main/zrb/zar-1700.gif)
 
 [Abonament Anual](https://zentasticarts.ro/plan-membri-zentasticarts/) ZentasticArts Pro
+
+[AI Quote](https://dascent.github.io/zaro/za-citate/ai-art.html)
