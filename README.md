@@ -62,3 +62,6 @@
 [Abonament Anual](https://zentasticarts.ro/plan-membri-zentasticarts/) ZentasticArts Pro
 
 [AI Quote](https://dascent.github.io/zaro/za-citate/ai-art.html)
+
+## Acreditari
+[Certificate - Diplome - Licente](https://dascent.github.io/zaro/diplome/diplome.html)
